@@ -1,0 +1,28 @@
+{
+  "town_caps": "SOMERS, CT",
+  "town": "Somers, CT",
+  "title": "Medical Receptionist",
+  "employer": "Trinity Health",
+  "pay": "$17.50–$23.80/hr",
+  "chips": ["Full time", "Day shift"],
+  "highlights": [
+    {"t": "Full time, 40 hours", "s": "Day shift"},
+    {"t": "Benefits from day one", "s": "Great benefits start on your first day"},
+    {"t": "Primary care practice", "s": "Trinity Health in Somers"}
+  ],
+  "voice_lines": [
+    "Now hiring in Somers, Connecticut!",
+    "Trinity Health is looking for a Medical Receptionist.",
+    "The pay is seventeen fifty to twenty-three eighty an hour.",
+    "It's full time, forty hours, day shift, and your benefits start on day one.",
+    "Apply today at hire commons dot com. Good work, close to home."
+  ],
+  "captions": [
+    "Now hiring in Somers, CT!",
+    "Trinity Health is looking for a Medical Receptionist.",
+    "The pay is $17.50 to $23.80 an hour.",
+    "It's full time, 40 hours, day shift, and your benefits start on day one.",
+    "Apply today at hirecommons.com. Good work, close to home."
+  ],
+  "voice": "af_heart"
+}
